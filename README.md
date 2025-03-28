@@ -1,8 +1,8 @@
-README - Travaux Pratiques en Reinforcement Learning
-Description des TPs
+**README - Travaux Pratiques en Reinforcement Learning**
+**Description des TPs**
 
 Ce dépôt contient quatre travaux pratiques (TPs) sur le Reinforcement Learning, couvrant différents algorithmes et environnements. Voici une description de chaque TP :
-TP1 : Introduction à Gymnasium et CartPole
+**TP1 : Introduction à Gymnasium et CartPole**
 
     Fichier: TP1.ipynb
 
@@ -18,7 +18,7 @@ TP1 : Introduction à Gymnasium et CartPole
 
         Interaction manuelle avec l'environnement pour comprendre les récompenses et les états.
 
-TP2 : Q-Learning sur FrozenLake
+**TP2 : Q-Learning sur FrozenLake**
 
     Fichier: TP2.ipynb
 
@@ -36,7 +36,7 @@ TP2 : Q-Learning sur FrozenLake
 
         Affichage du taux de réussite.
 
-TP3 : Q-Learning vs SARSA sur un environnement de trafic
+**TP3 : Q-Learning vs SARSA sur un environnement de trafic**
 
     Fichier: TP3.ipynb
 
@@ -52,7 +52,7 @@ TP3 : Q-Learning vs SARSA sur un environnement de trafic
 
         Analyse des performances relatives.
 
-TP4 : Policy Gradient (PPO) sur Taxi-v3
+**TP4 : Policy Gradient (PPO) sur Taxi-v3**
 
     Fichier: TP4.ipynb
 
@@ -68,7 +68,7 @@ TP4 : Policy Gradient (PPO) sur Taxi-v3
 
         Évaluation des performances après entraînement (récompense moyenne et taux de réussite).
 
-Prérequis
+**Prérequis**
 
     Python 3.9+
 
@@ -82,10 +82,10 @@ Prérequis
 
         traffic_env (environnement personnalisé pour TP3)
 
-Utilisation
+**Utilisation**
 
 Exécutez les notebooks Jupyter dans l'ordre (TP1 à TP4) pour une progression logique des concepts. Chaque TP contient des commentaires détaillés et des explications.
 
-Auteur
+**Auteur**
 
     Mohammed Rhouati
